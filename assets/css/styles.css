@@ -30,6 +30,14 @@ nav {
 
 form {
     background-color: salmon;
+    margin: 0 auto;
+    padding: 15px;
+    text-align: center;
+    width: 25%;
+}
+
+label {
+    display: block;
 }
 
 footer {
