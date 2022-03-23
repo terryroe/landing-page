@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: lightblue;
+    left: 0;
+    padding-bottom: 20px;
+    position: fixed;
+    right: 0;
+    top: 0;
+}
+
+nav {
+    text-align: right;
+}
+
+.bio-pic {
+    margin: 100px auto;
+    text-align: center;
+}
+
+.bio-pic img {
+    border: 8px solid teal;
+    height: 400px;
+}
+
+form {
+    background-color: salmon;
+}
+
+footer {
+    background-color: white;
+    bottom: 0;
+    left: 0;
+    padding: 20px 0;
+    position: fixed;
+    right: 0;
+    text-align: center;
+}
